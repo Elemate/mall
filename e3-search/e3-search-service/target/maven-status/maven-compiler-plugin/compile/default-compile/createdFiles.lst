@@ -1,0 +1,5 @@
+com\wq\search\Message\ItemAddMessage.class
+com\wq\search\Message\MyMessageListener.class
+com\wq\search\dao\SearchDao.class
+com\wq\search\service\impl\SearchServiceImpl.class
+com\wq\search\mapper\ItemMapper.class

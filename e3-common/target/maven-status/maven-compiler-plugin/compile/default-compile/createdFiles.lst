@@ -1,0 +1,13 @@
+com\wq\common\utils\TaotaoResult.class
+com\wq\common\pojo\ListItemParamsPojo.class
+com\wq\common\jedis\JedisClientPool.class
+com\wq\common\utils\IDUtils.class
+com\wq\common\jedis\JedisClientCluster.class
+com\wq\common\pojo\SearchResult.class
+com\wq\common\pojo\ParamsPojo.class
+com\wq\common\utils\FastDFSClient.class
+com\wq\common\pojo\EasyuiDataGridResult.class
+com\wq\common\utils\JsonUtils.class
+com\wq\common\pojo\ItemParamsPoJo.class
+com\wq\common\pojo\CatJsonResutl.class
+com\wq\common\jedis\JedisClient.class

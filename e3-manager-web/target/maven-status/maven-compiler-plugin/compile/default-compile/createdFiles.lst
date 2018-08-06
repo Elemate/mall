@@ -1,0 +1,7 @@
+com\wq\controller\PageController.class
+com\wq\controller\SolrController.class
+com\wq\controller\ContentController.class
+com\wq\controller\ContenCategoryController.class
+com\wq\controller\ItemController.class
+com\wq\controller\PicController.class
+com\wq\controller\ItemCatController.class
